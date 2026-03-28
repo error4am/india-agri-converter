@@ -13,7 +13,6 @@
 
 # Node (if we add it later)
 node_modules/
-package-lock.json
 yarn.lock
 
 # Logs

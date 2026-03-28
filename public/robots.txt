@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://error4am.github.io/india-agri-converter/sitemap.xml
